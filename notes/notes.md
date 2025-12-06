@@ -1,85 +1,85 @@
-**"The Evolution of Trust"**
+**"تطور الثقة"**
 
-This interactive guide is heavily based off Robert Axelrod's groundbreaking 1984 book, [The Evolution of Cooperation](https://www.amazon.com/Evolution-Cooperation-Revised-Robert-Axelrod/dp/0465005640)! I was also heavily inspired by his 1997 sequel, [The Complexity of Cooperation](http://press.princeton.edu/titles/6144.html), and Robert Putnam's 2000 book on America's declining "social capital", [Bowling Alone](http://bowlingalone.com/).
+يستند هذا الدليل التفاعلي بشكل كبير إلى كتاب روبرت أكسلرود الرائد لعام 1984، [The Evolution of Cooperation](https://www.amazon.com/Evolution-Cooperation-Revised-Robert-Axelrod/dp/0465005640)! كما استلهمت أيضاً من تكملته لعام 1997، [The Complexity of Cooperation](http://press.princeton.edu/titles/6144.html)، وكتاب روبرت بوتنام لعام 2000 حول تراجع "رأس المال الاجتماعي" في أمريكا، [Bowling Alone](http://bowlingalone.com/).
 
-yes i'm a bookworm nerd, plz don't bully me
+نعم، أنا هاوي قراءة ومهووس بالكتب، من فضلك لا تتنمر عليّ
 
-**"Fewer and fewer people say they trust each other"**
+**"عدد أقل وأقل من الناس يقولون إنهم يثقون ببعضهم البعض"**
 
-To see a thorough statistical take on this, check out [Our World In Data](https://ourworldindata.org/trust). Mmmm stats~
+لرؤية تحليل إحصائي شامل حول هذا الموضوع، تحقق من [Our World In Data](https://ourworldindata.org/trust). ممم، إحصائيات~
 
-**"The Game of Trust"**
+**"لعبة الثقة"**
 
-This game is also known in game theory as the infamous *Prisoner's Dilemma*. The Prisoner's Dilemma is named after a story where two suspects can either squeal on their partner-in-crime ("cheat"), or stay silent ("cooperate"). I chose not to do this story because 1) in this case, both players "cooperating" would be bad for society, and 2) it's unrealistic, everyone knows that snitches get stitches
+تُعرف هذه اللعبة أيضاً في نظرية الألعاب باسم *معضلة السجين* الشهيرة. معضلة السجين مستمدة من قصة حيث يمكن لمشتبهين إما أن يخبرا عن شريكهما في الجريمة ("الغش")، أو أن يبقيا صامتين ("التعاون"). اخترت عدم استخدام هذه القصة لأن 1) في هذه الحالة، "تعاون" كلا اللاعبين سيكون سيئاً للمجتمع، و 2) غير واقعي، الجميع يعلم أن الوشاة يدفعون الثمن
 
-**"You won't know in advance when the last round is"**
+**"لن تعرف مسبقاً متى ستكون الجولة الأخيرة"**
 
-In the repeated game of trust (also known as *Iterated Prisoner's Dilemma*), it's important that neither player knows *when* the last round is. Why? Think about it - on the last round, both players would know their action has no consequence, so they'd both cheat. But that means in the second-last round, their actions can't change the next round, so they'd also both cheat. But that means in the third-last round... etc etc.
+في لعبة الثقة المتكررة (المعروفة أيضاً باسم *معضلة السجين المتكررة*)، من المهم ألا يعرف أي من اللاعبين *متى* ستكون الجولة الأخيرة. لماذا؟ فكر في الأمر - في الجولة الأخيرة، سيعرف كلا اللاعبين أن أفعالهم ليس لها عواقب، لذا سيغشان كلاهما. لكن هذا يعني أنه في الجولة قبل الأخيرة، لا يمكن لأفعالهم أن تغير الجولة التالية، لذا سيغشان أيضاً. لكن هذا يعني في الجولة الثالثة قبل الأخيرة... وهكذا.
 
-**"Copycat"**
+**"المقلد"**
 
-This strategy is better known in game theory as *Tit For Tat*. It was created by Anatol Rapoport in 1980, for Robert Axelrod's game theory tournament. I chose not to use the name "Tit For Tat" because 1) it *sounds* mean, although it's a nice & fair strategy, and 2) a lot of the public have already heard about Tit For Tat, so if I used that name, players might just place their bets on this character because they've already heard of "Tit For Tat".
+تُعرف هذه الاستراتيجية في نظرية الألعاب باسم *Tit For Tat* (السن بالسن). ابتكرها أناتول رابوبورت في عام 1980، لبطولة روبرت أكسلرود في نظرية الألعاب. اخترت عدم استخدام اسم "Tit For Tat" لأن 1) يبدو *عدوانياً*، على الرغم من أنها استراتيجية لطيفة وعادلة، و 2) الكثير من الناس سمعوا بالفعل عن Tit For Tat، لذا إذا استخدمت هذا الاسم، قد يراهن اللاعبون على هذه الشخصية فقط لأنهم سمعوا عن "Tit For Tat" من قبل.
 
-**"You may be skeptical about the Christmas Truce"**
+**"قد تكون متشككاً بشأن هدنة عيد الميلاد"**
 
-There was another guy who was skeptical, too. During the truce, a German corporal remarked with disgust, ["Such a thing should not happen in wartime. Have you no German sense of honor?"](http://time.com/3643889/christmas-truce-1914/)
+كان هناك رجل آخر كان متشككاً أيضاً. خلال الهدنة، علّق عريف ألماني باشمئزاز، ["لا ينبغي أن يحدث مثل هذا الشيء في زمن الحرب. ألا تملك إحساساً ألمانياً بالشرف؟"](http://time.com/3643889/christmas-truce-1914/)
 
-That man was Adolf Hitler.
+كان ذلك الرجل هو أدولف هتلر.
 
-You can't make this sh\*t up.
+لا يمكنك اختلاق هذا الهراء.
 
-**"For culture to evolve"**
+**"لكي تتطور الثقافة"**
 
-There's a new, super-young interdisciplinary field that I'm really *excited* by, called *Cultural Evolution*. Admittedly, it's a bad name, not least because it sounds uncomfortably close to "Social Darwinism". Which it's not. Pinky promise.
+هناك مجال متعدد التخصصات جديد وحديث جداً يثير *حماسي* حقاً، يُسمى *التطور الثقافي*. يجب الاعتراف أنه اسم سيء، ليس أقله لأنه يبدو قريباً بشكل محرج من "الداروينية الاجتماعية". وهو ليس كذلك. أقسم بالوعد الصغير.
 
-One core part of Cultural Evolution Theory is culture evolves the same way life does: through variation & selection. Variation: people differ in beliefs & behaviors, and invent new ones almost every day. Selection: people try to imitate their heroes & elders, and adopt their beliefs/behaviors.
+جزء أساسي من نظرية التطور الثقافي هو أن الثقافة تتطور بنفس طريقة تطور الحياة: من خلال التنوع والانتقاء. التنوع: الناس يختلفون في المعتقدات والسلوكيات، ويبتكرون أخرى جديدة تقريباً كل يوم. الانتقاء: يحاول الناس تقليد أبطالهم وكبارهم، وتبني معتقداتهم/سلوكياتهم.
 
-(Note: this is *not* quite Richard Dawkin's "meme" theory. "Meme" implies, that, like genes, ideas come in discrete chunks & replicate with high fidelity. This is obviously untrue. Also you can't say "meme" with a straight face these days, so whatever)
+(ملاحظة: هذه *ليست* تماماً نظرية "الميم" لريتشارد دوكينز. "الميم" يعني، مثل الجينات، أن الأفكار تأتي في قطع منفصلة وتتكرر بدقة عالية. هذا غير صحيح بوضوح. أيضاً لا يمكنك قول "ميم" بوجه جاد هذه الأيام، فمهما يكن)
 
-The reason why I think Cultural Evolution is so promising, is that it could integrate *all* the human sciences: psychology, sociology, economics, anthropology, political science, neuroscience, biology. The greatest problems of our time do not obey conventional academic boundaries – so, it's about dang time we created a common language between the sciences and humanities.
+السبب الذي يجعلني أعتقد أن التطور الثقافي واعد جداً، هو أنه يمكن أن يدمج *جميع* العلوم الإنسانية: علم النفس، وعلم الاجتماع، والاقتصاد، والأنثروبولوجيا، والعلوم السياسية، وعلم الأعصاب، والأحياء. أعظم مشاكل عصرنا لا تطيع الحدود الأكاديمية التقليدية - لذا، حان الوقت لإنشاء لغة مشتركة بين العلوم والعلوم الإنسانية.
 
-If you want to learn more about Cultural Evolution Theory, I highly recommend Joseph Heinlich's 2015 book, [The Secret of Our Success](http://press.princeton.edu/titles/10543.html)!
+إذا كنت تريد معرفة المزيد عن نظرية التطور الثقافي، أوصي بشدة بكتاب جوزيف هنريك لعام 2015، [The Secret of Our Success](http://press.princeton.edu/titles/10543.html)!
 
-**"[Always Cheat's] exploitativeness was its downfall"**
+**"[استغلالية الغشاش دائماً] كانت سبب سقوطه"**
 
-You may have heard that someone found a player strategy that can "exploit evolution". From the [Scientific American](https://www.scientificamerican.com/article/game-theory-calls-cooperation-into-question1/): "[Press & Dyson's results] suggested the best strategies were selfish ones that led to extortion, not cooperation."
+ربما سمعت أن شخصاً ما وجد استراتيجية لاعب يمكنها "استغلال التطور". من [Scientific American](https://www.scientificamerican.com/article/game-theory-calls-cooperation-into-question1/): "[نتائج Press & Dyson] أشارت إلى أن أفضل الاستراتيجيات كانت أنانية وأدت إلى الابتزاز، وليس التعاون."
 
-Press & Dyson's findings *are* really important, but Scientific American confused two different uses of the word "evolutionary". The first use, the way this interactive guide used it, was to mean that the *tournament's population* changes over time. The second use, the way P&D meant it, was that the *player's rules* changes over time. For example: Detective is "evolutionary" since it changes its own rules, while Copycat is *not* "evolutionary" since it sticks to its principles.
+نتائج Press & Dyson *هي* مهمة حقاً، لكن Scientific American خلطت بين استخدامين مختلفين لكلمة "تطوري". الاستخدام الأول، الطريقة التي استخدمها هذا الدليل التفاعلي، كان يعني أن *سكان البطولة* يتغيرون بمرور الوقت. الاستخدام الثاني، الطريقة التي قصدها P&D، كان أن *قواعد اللاعب* تتغير بمرور الوقت. على سبيل المثال: المحقق "تطوري" لأنه يغير قواعده الخاصة، بينما المقلد *ليس* "تطورياً" لأنه يلتزم بمبادئه.
 
-So, P&D found strategies that could exploit "evolutionary" *players* like Detective, but their strategies _still could not exploit the evolution of the tournament_, because in the long run, fair & nice strategies still win. 
+لذا، وجد P&D استراتيجيات يمكن أن تستغل *اللاعبين* "التطوريين" مثل المحقق، لكن استراتيجياتهم _ما زالت لا تستطيع استغلال تطور البطولة_، لأنه على المدى الطويل، الاستراتيجيات العادلة واللطيفة ما زالت تفوز. 
 
-**"We have fewer friends -- period."**
+**"لدينا أصدقاء أقل - نقطة."**
 
-Seriously, go read Robert Putnam's 2000 book, [Bowling Alone](http://bowlingalone.com/). Yeah it's a bit outdated by now, 17 years later, but its core findings and lessons are still true as ever -- probably even more so.
+بجدية، اذهب واقرأ كتاب روبرت بوتنام لعام 2000، [Bowling Alone](http://bowlingalone.com/). نعم إنه قديم بعض الشيء الآن، بعد 17 عاماً، لكن نتائجه ودروسه الأساسية ما زالت صحيحة كما كانت دائماً - ربما أكثر من ذلك.
 
-**"Non-zero-sum game" / "Win-Win"**
+**"لعبة غير صفرية" / "الفوز-الفوز"**
 
-This is kinda cheesy, but I still adore the 1989 book, [The Seven Habits of Highly Effective People](https://www.amazon.com/Habits-Highly-Effective-People-Powerful/dp/0743269519) -- especially Habit #4: Think Win-Win.
+هذا نوعاً ما مبتذل، لكنني ما زلت أعشق كتاب 1989، [The Seven Habits of Highly Effective People](https://www.amazon.com/Habits-Highly-Effective-People-Powerful/dp/0743269519) -- خاصة العادة رقم 4: فكر الفوز-الفوز.
 
-Because, contrary to popular belief, coming up with Win-Win solutions is hard, takes lots of effort, and is emotionally painful. Heck, I'd go even further – I'd say our culture's default stance of Win-Lose "us versus them" is the easy path, the lazy path, the equivalent of activism junk food.
+لأنه، على عكس الاعتقاد الشائع، التوصل إلى حلول الفوز-الفوز صعب، ويتطلب الكثير من الجهد، ومؤلم عاطفياً. بل سأذهب أبعد من ذلك - سأقول إن موقف ثقافتنا الافتراضي من الفوز-الخسارة "نحن ضدهم" هو الطريق السهل، الطريق الكسول، ما يعادل الوجبات السريعة للنشاط الاجتماعي.
 
-Anyway. Exaggerations aside, I strongly believe "Win-Win" / "Non-Zero-Sum" is something we all urgently need -- in our personal lives, social lives, and _definitely_ political lives.
+على أي حال. بعيداً عن المبالغات، أعتقد بقوة أن "الفوز-الفوز" / "غير الصفري" هو شيء نحتاجه جميعاً بشكل عاجل -- في حياتنا الشخصية، والاجتماعية، و_بالتأكيد_ السياسية.
 
-**"Copykitten"**
+**"المقلد المتسامح"**
 
-Just like how Copycat's original name was Tit For Tat, Copykitten's original name is *Tit For Two Tats*. Same rule: Cooperate, unless the other players cheats *twice* in a row.
+تماماً كما كان الاسم الأصلي للمقلد هو Tit For Tat، الاسم الأصلي للمقلد المتسامح هو *Tit For Two Tats* (السن بسنين). نفس القاعدة: تعاون، إلا إذا غش اللاعب الآخر *مرتين* متتاليتين.
 
-There's another forgiving variant of Tit For Tat called *Generous Tit For Tat*. It's got a similar but slightly different rule: Cooperate, but when the other player cheats, forgive them with a X% chance. This design, with the variable "X", lets you set different "forgiveness" levels for the player.
+هناك نسخة أخرى متسامحة من Tit For Tat تسمى *Generous Tit For Tat* (السن بالسن الكريم). لديها قاعدة مشابهة لكن مختلفة قليلاً: تعاون، لكن عندما يغش اللاعب الآخر، اغفر له بنسبة X٪. هذا التصميم، مع المتغير "X"، يتيح لك تعيين مستويات "مغفرة" مختلفة للاعب.
 
-**"Simpleton"**
+**"البسيط"**
 
-Also known as Pavlov, or Win-Shift-Lose-Stay.
+يُعرف أيضاً باسم بافلوف، أو Win-Shift-Lose-Stay (اربح-غيّر، اخسر-ابق).
 
-**"Our modern media [...] has increased our miscommunication"**
+**"وسائل إعلامنا الحديثة [...] زادت من سوء الفهم لدينا"**
 
-I'm only in my twenties, I don't know why I always sound like an old grump shaking my fist at a cloud. But, yeah, anyway, go read Neil Postman's 1985 book, [Amusing Ourselves To Death](https://www.amazon.com/Amusing-Ourselves-Death-Discourse-Business/dp/014303653X). It's about how the communications technology we use subtly shapes our culture ("the medium is the message") and how technology that is biased towards quick & fast information (TV in 1985, social media now) turns us all into trivial, short-term thinkers.
+أنا فقط في العشرينيات من عمري، لا أعرف لماذا أبدو دائماً كشخص عجوز متذمر يهز قبضته على سحابة. لكن، نعم، على أي حال، اذهب واقرأ كتاب نيل بوستمان لعام 1985، [Amusing Ourselves To Death](https://www.amazon.com/Amusing-Ourselves-Death-Discourse-Business/dp/014303653X). يتحدث عن كيف أن تكنولوجيا الاتصالات التي نستخدمها تشكل ثقافتنا بشكل خفي ("الوسيلة هي الرسالة") وكيف أن التكنولوجيا المنحازة نحو المعلومات السريعة والفورية (التلفزيون في 1985، وسائل التواصل الاجتماعي الآن) تحولنا جميعاً إلى مفكرين تافهين قصيري المدى.
 
-Although I don't agree with _everything_ in his book, it's a real eye-opener, and surprisingly prescient for 1985. His rant against Sesame Street is kinda weird, though.
+على الرغم من أنني لا أتفق مع _كل شيء_ في كتابه، إلا أنه فاتح للعيون حقاً، ومُبصر بشكل مفاجئ لعام 1985. هجومه على Sesame Street غريب نوعاً ما، رغم ذلك.
 
-**"Build relationships. Find win-wins. Communicate clearly."**
+**"ابنِ العلاقات. اعثر على الفوز-الفوز. تواصل بوضوح."**
 
-Giving advice can come off as condescending, so let me be perfectly honest: I do *not* have any of this figured out, personally. I'm bad at developing friendships, especially with people of different political views than me. I occasionally forget about win-wins, and lapse into "us versus them" thinking. And judging by this rambling, I'm also still terrible at communicating clearly.
+تقديم النصائح قد يبدو متعالياً، لذا دعني أكون صريحاً تماماً: أنا *لا* أملك أياً من هذا مفهوماً، شخصياً. أنا سيء في تطوير الصداقات، خاصة مع أشخاص ذوي آراء سياسية مختلفة عني. أنسى أحياناً الفوز-الفوز، وأعود إلى تفكير "نحن ضدهم". وحكماً على هذا الثرثرة، ما زلت أيضاً سيئاً في التواصل بوضوح.
 
-But I want to get better. This stuff is *hard*. Building peace & trust in the world, from the bottom up, is *hard*.
+لكنني أريد أن أتحسن. هذه الأشياء *صعبة*. بناء السلام والثقة في العالم، من الأسفل إلى الأعلى، *صعب*.
 
-And that's why it's worth it. <3
+ولهذا السبب يستحق الأمر. <3
